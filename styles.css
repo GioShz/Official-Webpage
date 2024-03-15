@@ -106,3 +106,10 @@ body {
         background-position: 0 50%;
     }
 }
+
+
+@media screen and (max-width: 990px) {
+    #socials {
+        margin-top: 24px;
+    }
+}
